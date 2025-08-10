@@ -22,4 +22,4 @@ Dibuat menggunakan **PHP / CodeIgniter 3 ** dengan desain yang responsif sehingg
 ---
 
 Tampilkan Halaman ada di :
-https://raw.githubusercontent.com/attorichikmalf/pengumuman-kelulusan-smkn2depok/bdf7d1efb6892fa580e091e929a547efb1b99c18/assets/images
+https://github.com/attorichikmalf/pengumuman-kelulusan-smkn2depok/tree/df5c3b23ca90614a212b91dd6cc79ae70917f272/assets/images
