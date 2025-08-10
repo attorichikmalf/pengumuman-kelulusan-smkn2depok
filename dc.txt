@@ -1,0 +1,5 @@
+perbaikan di 
+1. views/admin/siswa/index
+2. controllers/admin/siswa -> function index penambahan fungsi filter dan short
+3. tambah table kelas 
+4. perbaikan page navigation -> penambaha function controller siswa -> penambahan model 
