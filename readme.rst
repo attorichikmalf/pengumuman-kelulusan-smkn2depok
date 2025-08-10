@@ -10,12 +10,7 @@ Sistem informasi pengumuman kelulusan berbasis web yang memudahkan siswa untuk m
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/attorichikmalf/pengumuman-kelulusan-smkn2depok/main/assets/images/login.png" alt="Login Page" width="300"/>
-  <img src="https://raw.githubusercontent.com/attorichikmalf/pengumuman-kelulusan-smkn2depok/main/assets/images/dashboard.png" alt="Dashboard" width="300"/>
-  <img src="https://raw.githubusercontent.com/attorichikmalf/pengumuman-kelulusan-smkn2depok/main/assets/images/Countdown.png" alt="Countdown" width="300"/>
-</p>
-
+https://raw.githubusercontent.com/attorichikmalf/pengumuman-kelulusan-smkn2depok/bdf7d1efb6892fa580e091e929a547efb1b99c18/assets/images/Countdown.png
 ## Instalasi
 
 1. Clone repository:
